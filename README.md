@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14181C,100:2E6F4E&height=200&section=header&text=Moulya%20H%20A&fontSize=55&fontColor=FBFBF8&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20Cloud%20%26%20DevOps%20Enthusiast&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+# 🧑‍💻 Moulya H A
+
+### Data Analyst · Cloud & DevOps Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E6F4E&center=true&vCenter=true&width=600&lines=CI%2FCD+pipelines+with+Jenkins+%26+Docker;Orchestrating+workloads+on+Kubernetes;Turning+raw+data+into+dashboards+that+matter;Always+learning+something+new+in+DevSecOps" alt="Typing SVG" />
 
@@ -105,7 +107,5 @@ Monitored system events using **eBPF** with low CPU overhead for real-time threa
 📍 Tumkur, Karnataka, IN &nbsp;·&nbsp; 📫 moulyaha19@gmail.com
 
 <img src="https://komarev.com/ghpvc/?username=Moulyagowda-19&label=Profile%20Views&color=2e6f4e&style=flat" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E6F4E,100:14181C&height=100&section=footer" width="100%"/>
 
 </div>
