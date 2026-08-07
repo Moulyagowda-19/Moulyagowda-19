@@ -2,11 +2,11 @@
 
 # Hey, I'm Moulya H A 👋
 
-### 🚀 Data Analyst · Cloud & DevOps Enthusiast
+### 🚀 AI Engineer · Cloud & DevOps Enthusias
 
 Final-year AI & Data Science student who loves turning raw data into insights and shipping cloud-native, scalable systems.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E6F4E&center=true&vCenter=true&width=560&lines=Building+CI%2FCD+pipelines+with+Jenkins+%26+Docker;Orchestrating+workloads+on+Kubernetes;Turning+raw+data+into+dashboards+that+matter;Always+learning+something+new+in+DevSecOps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E6F4E&center=true&vCenter=true&width=560&lines=CI%2FCD+pipelines+with+Jenkins+%26+Docker;Orchestrating+workloads+on+Kubernetes;Turning+raw+data+into+dashboards+that+matter;Always+learning+something+new+in+DevSecOps" alt="Typing SVG" />
 
 </div>
 
@@ -59,10 +59,6 @@ Final-year AI & Data Science student who loves turning raw data into insights an
 <img src="https://github-readme-stats.vercel.app/api?username=Moulyagowda-19&show_icons=true&theme=dark&cache_seconds=1800" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moulyagowda-19&theme=dark" height="165"/>
 </p>
-
-## 📈 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moulyagowda-19&layout=compact&theme=dark&langs_count=8&cache_seconds=1800"/>
 
 <br/>
 
