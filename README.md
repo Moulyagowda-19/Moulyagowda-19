@@ -72,13 +72,22 @@ Monitored system events using **eBPF** with low CPU overhead for real-time threa
 
 </td>
 </tr>
-</table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="left">
-<a href="https://github.com/Moulyagowda-19/loginapp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Moulyagowda-19&repo=loginapp&theme=dark&border_color=2E6F4E" />
-</a>
-</p>
+### 📄 AI Resume Analyzer
+`● deployed`
+
+Built a resume screening tool that parses resumes and matches them against job descriptions using NLP, scoring candidates on skill overlap and highlighting missing keywords to help tailor applications.
+
+`Python` `NLP` `Machine Learning` `Pandas`
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
 
 <br/>
 
