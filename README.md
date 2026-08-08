@@ -2,7 +2,7 @@
 
 # 🧑‍💻 Moulya H A
 
-### Data Analyst · Cloud & DevOps Enthusiast
+### AI Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E6F4E&center=true&vCenter=true&width=600&lines=CI%2FCD+pipelines+with+Jenkins+%26+Docker;Orchestrating+workloads+on+Kubernetes;Turning+raw+data+into+dashboards+that+matter;Always+learning+something+new+in+DevSecOps" alt="Typing SVG" />
 
