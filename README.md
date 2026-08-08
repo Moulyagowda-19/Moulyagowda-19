@@ -12,9 +12,17 @@
 <a href="https://github.com/Moulyagowda-19" target="_blank"><img src="https://img.shields.io/badge/GitHub-14181C?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:moulyaha19@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D24939?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
+<br/><br/>
+
+![](https://img.shields.io/badge/📍-Tumkur,%20Karnataka,%20IN-2E6F4E?style=flat-square)
+![](https://img.shields.io/badge/🎓-VTU%20·%20SGPA%209.2/10-2E6F4E?style=flat-square)
+![](https://img.shields.io/badge/🎯-Graduating%202027-2E6F4E?style=flat-square)
+
 </div>
 
 <br/>
+
+---
 
 ## 👩‍💻 About Me
 
@@ -33,6 +41,8 @@ I spend as much time in Jenkinsfiles, Dockerfiles, and Kubernetes manifests as I
 
 <br/>
 
+---
+
 ## 🔧 Tech Stack
 
 <p align="left">
@@ -47,6 +57,8 @@ I spend as much time in Jenkinsfiles, Dockerfiles, and Kubernetes manifests as I
 </p>
 
 <br/>
+
+---
 
 ## 🚀 Featured Projects
 
@@ -75,6 +87,13 @@ Monitored system events using **eBPF** with low CPU overhead for real-time threa
 </tr>
 </table>
 
+### 📄 AI Resume Analyzer
+`● deployed`
+
+Built a resume screening tool that parses resumes and matches them against job descriptions using NLP, scoring candidates on skill overlap and highlighting missing keywords to help tailor applications.
+
+`Python` `NLP` `Machine Learning` `Pandas`
+
 <p align="left">
 <a href="https://github.com/Moulyagowda-19/loginapp">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moulyagowda-19&repo=loginapp&theme=dark&border_color=2E6F4E" />
@@ -83,17 +102,27 @@ Monitored system events using **eBPF** with low CPU overhead for real-time threa
 
 <br/>
 
+---
+
 ## 🏆 Achievements & Certifications
 
 - 🎓 **AI for Students: Build Your Own Generative AI Model** — NxtWave, Mar 2025
 - 🎓 **Deloitte Data Analyst Job Simulation** — Forage, Oct 2024
 - 🏅 National Level Hackathon Participant — AI problem-solving
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Moulyagowda-19&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
+
+</div>
+
 <br/>
+
+---
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Moulyagowda-19&show_icons=true&theme=dark&border_color=2E6F4E&title_color=7fd8a3&icon_color=7fd8a3&cache_seconds=1800" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moulyagowda-19&theme=dark&border=2E6F4E&stroke=2E6F4E&ring=7fd8a3&fire=7fd8a3&currStreakLabel=7fd8a3" height="165"/>
 </p>
@@ -102,10 +131,16 @@ Monitored system events using **eBPF** with low CPU overhead for real-time threa
 
 <br/>
 
+---
+
 <div align="center">
 
-📍 Tumkur, Karnataka, IN &nbsp;·&nbsp; 📫 moulyaha19@gmail.com
+### 📫 Let's Connect
+
+📍 Tumkur, Karnataka, IN &nbsp;·&nbsp; ✉️ moulyaha19@gmail.com
 
 <img src="https://komarev.com/ghpvc/?username=Moulyagowda-19&label=Profile%20Views&color=2e6f4e&style=flat" />
+
+<sub>⭐️ Thanks for stopping by — feel free to explore my pinned repos above!</sub>
 
 </div>
